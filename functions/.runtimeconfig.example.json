@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://admin:password@cluster0.lalala.mongodb.net/databaseName?retryWrites=true&w=majority"
+  }
+}
